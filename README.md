@@ -8,21 +8,6 @@ La cadena completa que se recorre:
 
 **cultivo agroforestal → cosecha y quiebre de mazorcas → transporte y acopio → recepción y báscula → fermentación → secado → bodega de grano seco → transformación → empaque → bodega y despacho → tienda de chocolate**
 
-## Cómo abrirlo
-
-El proyecto es un solo archivo: `planta_cacaotera_3d.html`.
-
-- **En tu computador:** descárgalo y ábrelo con doble clic en Chrome o Edge.
-- **Desde un servidor estático:** por ejemplo, desde la carpeta del archivo:
-  ```bash
-  python -m http.server 8000
-  ```
-  y luego abre `http://localhost:8000/planta_cacaotera_3d.html`.
-- **En GitHub Pages:** en el repositorio ve a *Settings → Pages*, elige la rama `main` y la carpeta raíz, y guarda. El recorrido queda en
-  `https://<tu-usuario>.github.io/<tu-repositorio>/planta_cacaotera_3d.html`.
-  Si quieres que abra directamente en la dirección principal del sitio, renombra el archivo a `index.html`.
-
-No requiere instalación, compilación ni npm. Necesita conexión a internet la primera vez para cargar Three.js desde la CDN.
 
 ## Controles
 
